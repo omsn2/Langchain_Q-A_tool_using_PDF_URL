@@ -1,7 +1,8 @@
 # README.md
 
 ## Project Title
-**Miniproject2**
+**Langchain_Q-A_tool_using_PDF_URL
+**
 
 ## Introduction
 This project contains multiple Python scripts that likely perform specific tasks related to FAISS indexing and other operations. It includes modular components for testing, resource handling, and indexing.
@@ -20,8 +21,8 @@ Make sure you have Python 3.7 or higher installed.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
-   cd repository-name
+   git clone https://github.com/omsn2/Langchain_Q-A_tool_using_PDF_URL.git
+   cd Langchain_Q-A_tool_using_PDF_URL
    ```
 
 2. Set up a virtual environment (optional but recommended):
