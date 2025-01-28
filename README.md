@@ -57,34 +57,7 @@ Make sure you have Python 3.7 or higher installed.
 - FAISS-based indexing.
 - Modular structure with multiple application entry points.
 - Testing functionality included.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
-# requirements.txt
-# Add all required Python dependencies
-faiss-cpu
-flask
-numpy
-pytest
-requests
 
-dotenv  # For environment variable handling
 
-# .gitignore
-# Ignore sensitive and unnecessary files
-.env
-__pycache__/
-*.pyc
-*.pyo
-*.log
-*.sqlite3
-.DS_Store
-venv/
-.idea/
-*.swp
-*.swo
-url.text
-faiss_index
