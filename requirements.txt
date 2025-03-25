@@ -1,10 +1,14 @@
-dotenv
 dash
 dash-bootstrap-components
 langchain
 langchain-community
 langchain-google-genai
+google-generativeai
 faiss-cpu
+python-dotenv
+requests
+beautifulsoup4
+pandas
 PyPDF2
 graphviz
 spacy
