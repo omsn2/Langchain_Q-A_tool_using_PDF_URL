@@ -392,7 +392,4 @@ def handle_pdf_question(n_clicks, user_question, user_graph_request, target_lang
         return outputs
     return ""
 
-if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=8080)
-
                                    
