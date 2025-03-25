@@ -173,7 +173,7 @@ def summarize_text(text, num_sentences=3):
     return summary
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
+server = app.server
 app.layout = html.Div([
     dbc.Container([
         dbc.Row([
