@@ -1,6 +1,12 @@
+dash
+dash-bootstrap-components
+langchain
+langchain-community
+langchain-google-genai
 faiss-cpu
-flask
-numpy
-pytest
-requests
-dotenv
+PyPDF2
+graphviz
+spacy
+textblob
+googletrans==4.0.0-rc1
+gunicorn
