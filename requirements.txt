@@ -1,3 +1,4 @@
+dotenv
 dash
 dash-bootstrap-components
 langchain
